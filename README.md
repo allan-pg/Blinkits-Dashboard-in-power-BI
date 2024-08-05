@@ -1,3 +1,2 @@
 # Blinkits Dashboard in power BI
-
-![Capture](https://github.com/user-attachments/assets/e18d60a0-29d3-4a95-8c49-2a158626abcc)
+![blinkt](https://github.com/user-attachments/assets/a20d4a40-93f5-4128-9b28-7a51d1b2a217)
