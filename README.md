@@ -49,4 +49,6 @@ Chart type : Bar chart
   Chart type: Matrix Card
 
 # Findings  
- 
+1. Revenue generated from sales was $1.2 M
+2. Number of items sold was over 9000
+3. 
