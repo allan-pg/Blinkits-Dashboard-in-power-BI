@@ -20,31 +20,31 @@ Conduct a comprehensive analysis of Blinkit’s sales performance, customer sati
 4.	Average rating: Average rating per user
 
 # Charts Requirements
-1.	Total sales by Outlets
+1.	Total sales by Outlets  
   Objective : Analyze impact of fat content on total sales  
   Chart type : Donut chart
 
-2.	Total Sales by Item type
+2.	Total Sales by Item type  
 Objective : Identify patterns of Total sales by item type  
 Chart type : Bar chart
 
-3.	Total Sales by Fat Contents
+3.	Total Sales by Fat Contents  
    Objective : Compare total sales in different outlets by fat content  
    Chart type : Stacked Column chart
 
-4.	Fat Contents by outlets
+4.	Fat Contents by outlets  
    Objective : Evaluate Total sales by outlet type  
    Chart type : Line Chart 
 
-5.	Sales by Outlet Size
+5.	Sales by Outlet Size  
   Objective: Find total sales by size of outlet  
   Chart type: Donut/Pie chart
 
-6.	Sales by Outlet Location
+6.	Sales by Outlet Location  
   Objective: Find total sales by outlet location  
   Chart type: Funnel
 
-7.	All metrics by Outlet Type
+7.	All metrics by Outlet Type  
   Objective: Comprehensive metric table  
   Chart type: Matrix Card
 
